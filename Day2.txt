@@ -17,7 +17,7 @@ Data Types: Common data types include integers, strings, booleans, and floats, a
     c="hello" =>string data type
     booleans  => True/False
 -----------------------------------------------
-4.Type Conversion: This process enables the transformation of a variable's data type into another,another data type 
+4.Type Conversion: This process enables the transformation of a variable's data type into another data type 
 ------->Methods of type conversion<-----------
 
 In Python
