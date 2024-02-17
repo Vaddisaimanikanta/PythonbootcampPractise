@@ -1,1 +1,46 @@
 
+Python is a dynamically typed, high-level, and interpreted programming language. and one more example is java script.
+
+1.Interpreted Language: This category of programming languages translates and executes code directly at runtime, processing instructions line by line.
+
+2.Dynamically Typed Programming Language: Such languages automatically determine the data type of a variable at runtime, based on the value it is assigned.
+
+3.Variable: Variables serve as data storage containers, which can hold various data types. They are identified by unique labels, allowing for easy data access and 
+  manipulation by referring to these labels.
+  Example:-
+  x=10
+
+x is a variable which store the address of the value 10(where 10 is the interger data type)
+
+Data Types: Common data types include integers, strings, booleans, and floats, among others, each serving specific purposes in data representation and manipulation.
+---------->Data Types<------------------------
+    a=10      =>Integer data type   
+    b=2.3     =>Float data type     
+    c="hello" =>string data type
+    booleans  => True/False
+-----------------------------------------------
+4.Type Conversion: This process enables the transformation of a variable's data type into another,another data type 
+------->Methods of type conversion<-----------
+
+In Python
+1.To Integer: int(x) converts x to an integer.
+  Ex:- x="10" [ x is a string data type to covert this string to interger we use  a=int(x) (a is a another variable which is used to store the int(x) value)]
+  If you want to check which data type does the value belongs to 
+  print(type(x)) ---> <class type str>
+  print(type(a)) ---> <class type int>
+
+2.To Float: float(x) converts x to a floating-point number.
+  Ex:- x=10
+       b=float(x)
+       print(type(x)) ---> <class type int>
+       print(type(b)) ---><class type float>
+
+3.To String: str(x) converts x to a string.
+  EX:-x=20
+      c=str(20)
+      print(type(x)) ----> <class type int>
+      print(type(c)) ----> <class type string>
+
+5.High-Level Programming Language: These languages are designed to be user-friendly, with a syntax that is easily comprehensible by developers, facilitating the creation of complex logic in an understandable manner.
+
+             
