@@ -8,8 +8,7 @@ Example for 1 & 2 statements are  is : python,Java script
   manipulation by referring to these labels.
   Example:-
   x=10
-
-x is a variable which store the address of the value 10(where 10 is the interger data type)
+  x is a variable which store the address of the data ype tvalue 10(where 10 is the interger data type)
 
 Data Types: Common data types include integers, strings, booleans, and floats, among others, each serving specific purposes in data representation and manipulation.
 ---------->Data Types<------------------------
