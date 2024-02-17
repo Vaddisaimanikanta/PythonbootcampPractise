@@ -1,9 +1,8 @@
-
-Python is a dynamically typed, high-level, and interpreted programming language. and one more example is java script.
-
 1.Interpreted Language: This category of programming languages translates and executes code directly at runtime, processing instructions line by line.
 
 2.Dynamically Typed Programming Language: Such languages automatically determine the data type of a variable at runtime, based on the value it is assigned.
+
+Example for 1 & 2 is : python,Java script
 
 3.Variable: Variables serve as data storage containers, which can hold various data types. They are identified by unique labels, allowing for easy data access and 
   manipulation by referring to these labels.
