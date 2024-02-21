@@ -1,0 +1,17 @@
+1.Why indexes start from zero?
+Ans:ndexing starts from 0 in many programming languages because it simplifies the calculation of an item's position in memory. When the index starts at 0, you can calculate the position of an item by adding the index directly to the base address (the starting point in memory). This makes accessing items faster and more efficient.
+2.Static Allocation
+With static allocation, the amount of memory needed is determined at compile time, before the program runs. 
+It's used for data that has a known, fixed size that does not need to change during the program's execution, such as constants or static arrays.
+3.Dynamic Allocation
+Dynamic allocation allows the program to request memory during runtime based on its needs. This means the size of data structures can grow or shrink as required by the program's execution.
+It's used for data whose size cannot be determined at compile time or which may change size, such as lists, trees, or other data structures that grow as the program inputs or data sets change.
+4.Homogeneous
+A homogeneous data structure can only contain elements of the same type. All elements are uniform in type.
+An array in C or C++ where all elements are of type int
+5.Heterogeneous
+A heterogeneous data structure can contain elements of different types. The elements within the collection do not have to be uniform in type.
+A list in Python that contains integers, strings, and even other lists or dictionaries 
+6.List in python?
+  List are used to strore similar or different types of data structure 
+  Real life Example:-Vegitable store,Music palyer,Computer games
