@@ -1,0 +1,29 @@
+1.Naming_convention?
+   A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+   Reasons for using Naming_convention:
+     1.To reduce the effort needed to read and understand source code;[1]
+     2.To enable code reviews to focus on issues more important than syntax and naming standards.
+     3.To enable code quality review tools to focus their reporting mainly on significant issues other than syntax and style preferences.
+   Rules to follow:
+     1.It should not start with any number,special character or spaces 
+     2.It should start with char or _ .
+     3.Declearing should be very meaningful 
+  Ex:-
+       @A=10 or 2=4 invalid
+       A=10 or _A=4 valid 
+       A=2*2 (It is valid but we need specify it clear ex:- Multiplication_of_twonumbers/product/Multiple)
+2.Mutable and Immutabl?
+       Mutable:	Data type whose values can be changed after creation.Ex:	List, Dictionaries, Set
+       Memory Retains the same memory location even after the content is modified.  
+       Immutable:Data types whose values can’t be changed or altered.
+       Memory Any modification results in a new object and new memory location
+3.List:List are used to store different types of datastructure.It acts as a container to store differnt values
+      list are opened and enclosed with square brackets []
+      list=[10,"mainkanta",True,2.3]
+      List Methods:
+         .append() ->it will add element to the last of the list
+         .remove() -> Remove a given element from the list
+         .index()  ->Returns the lowest index where the element appears.
+         .count() ->These methods count the elements.
+         .pop()   ->Removes and returns the last value from the List or the given index value.
+         
